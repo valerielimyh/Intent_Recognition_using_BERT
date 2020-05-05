@@ -16,7 +16,8 @@ This dataset has 14484 observations. Each observation consists of user's query (
 
 It is hosted on [GitHub] (https://github.com/snipsco/nlu-benchmark/tree/master/2017-06-custom-intent-engines) and is first presented in [this paper] (https://arxiv.org/abs/1805.10190).
 
-# Results [work-in progress]
+#### Results 
+[work-in progress]
 Using DistilBERT to embed text and modeling using Log reg gives us higher accuracy than using count vectoriser to generate a document-term matrix and modeling using Log reg. 
 
 
